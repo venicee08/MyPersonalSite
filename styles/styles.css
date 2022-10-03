@@ -66,6 +66,10 @@ li a:hover {
   background-color: #1C3879;
 }
 
+.active-page{
+  background-color: #1C3879;
+}
+
 .top-container{
   background-color: #1C3879;
 }
