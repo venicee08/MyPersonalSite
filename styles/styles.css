@@ -262,8 +262,9 @@ li a:hover {
   text-align: center;
 }
 
-.dest-name{
+h3.dest-name{
   margin-top: 8px;
+  font-size: 1.5rem;
 }
 
 .contact-container{
